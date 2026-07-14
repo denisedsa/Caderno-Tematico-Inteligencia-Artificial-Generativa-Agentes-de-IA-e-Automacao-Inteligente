@@ -1,0 +1,29 @@
+📁 caderno-tematico-ia-notebooklm
+│
+├── README.md
+│
+├── 📁 fontes
+│   ├── fonte-01-openai-fundamentos-ia.pdf
+│   ├── fonte-02-google-generative-ai.pdf
+│   ├── fonte-03-microsoft-ai-agents.pdf
+│   └── fonte-04-notebooklm-guia.pdf
+│
+├── 📁 prompts
+│   ├── testes-prompts.md
+│   ├── prompt-resumo-documento.md
+│   ├── prompt-comparacao-conceitos.md
+│   └── prompt-geracao-glossario.md
+│
+├── 📁 evidencias-notebooklm
+│   ├── teste-01-upload-fontes.png
+│   ├── teste-02-pergunta-inicial.png
+│   ├── teste-03-prompt-aprimorado.png
+│   └── teste-04-geracao-resumo.png
+│
+├── 📁 resultados
+│   ├── resumo-ia-generativa.md
+│   ├── comparativo-chatbot-copiloto-agente.md
+│   └── glossario-ia.md
+│
+└── 📁 aprendizados
+    └── cicatrizes-e-melhorias.md
