@@ -1,0 +1,1 @@
+# Caderno-Tematico-Inteligencia-Artificial-Generativa-Agentes-de-IA-e-Automacao-Inteligente
